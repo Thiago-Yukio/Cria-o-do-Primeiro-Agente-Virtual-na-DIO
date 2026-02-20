@@ -12,7 +12,7 @@ Análises financeiras específicas, como, por exemplo, cálculo de lucro e indic
 
 ### Solucão
 > Como o agente resolve esse problema de forma proativa?
-Um agente que analisa um conjunto de dados de forma simples e indica os valores obtidos, usando os dados de Excel do próprio cliente.
+Um agente que analisa um conjunto de dados de forma simples e indica os valores obtidos, usando os dados de Excel.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
@@ -73,7 +73,6 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [X] Só utilizo os dados fornecidos pelo cliente em seu Excel,ou seja, o usuário tem que enviar uma planilha de excel.
 - [X] Se não existirem dados, não analiso.
 - [X] Foco apenas na análise de dados.
 
