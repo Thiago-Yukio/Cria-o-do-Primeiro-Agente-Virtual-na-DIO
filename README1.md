@@ -73,7 +73,7 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [X] Só utilizo os dados fornecidos pelo cliente em seu Excel.
+- [X] Só utilizo os dados fornecidos pelo cliente em seu Excel,ou seja o usuário tem que enviar dados.
 - [X] Se não existirem dados, não analiso.
 - [X] Foco apenas na análise de dados.
 
