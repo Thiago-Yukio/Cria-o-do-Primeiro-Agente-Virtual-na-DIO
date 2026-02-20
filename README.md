@@ -1,10 +1,5 @@
 # Cria-o-do-Primeiro-Agente-Virtual-na-DIO
 
-# Documentação do Agente
-
-> [cole ou anexe o template `01-documentacao-agente.md` pra contexto]
-
-
 ## Caso de Uso
 
 ### Problema
