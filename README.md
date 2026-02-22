@@ -6,4 +6,4 @@ Olá pessoal, essa é minha primeira criação de uma Agente Virtual seguindo o 
 - Dados: dados
 - Código: PROJETO.txt
 - Prompt do projeto: Prompt_Agente_Virtual.md
-OBS: É necessário ter o llama AI
+- OBS: É necessário ter o llama AI
